@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate AI",
+  "description": "An AI-powered academic study assistant for students featuring AI Study Planner, Doubt Solver, Notes Generator, Quiz Generator, Progress Tracker, and Resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
